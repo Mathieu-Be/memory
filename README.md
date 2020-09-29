@@ -1,7 +1,7 @@
 # Memory
 
 <p align="center">
-    <img src="https://mathieubesson-memory.netlify.app/img/logo.png" alt="logo" width="200" height="200">
+    <img src="https://mathieubesson-memory.netlify.app/img/logo.png" alt="logo">
 </p>
 
 Le memory est un jeu ou le joueur commence et retourne 2 cartes, 2 possibilités: Si les cartes ne sont pas identiques (ce n'est pas une paire), il les retourne il retente sa chance. Par contre, si les 2 cartes sont identiques, c'est une paire, les cartes restent donc retournés!
