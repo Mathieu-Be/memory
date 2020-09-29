@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Le memory est un jeu ou le joueur commence et retourne 2 cartes, 2 possibilités : si les cartes ne sont pas identiques (ce n'est pas une paire), il les retourne il retente sa chance. Par contre, si les 2 cartes sont identiques, c'est une paire, les cartes restent donc retournés!
+Le memory est un jeu ou le joueur commence et retourne 2 cartes, 2 possibilités : si les cartes ne sont pas identiques (ce n'est pas une paire), il les retourne il retente sa chance. Par contre, si les 2 cartes sont identiques, c'est une paire, les cartes restent donc retournées!
 
 Lien vers la version en ligne : https://mathieubesson-memory.netlify.app/ 
 
